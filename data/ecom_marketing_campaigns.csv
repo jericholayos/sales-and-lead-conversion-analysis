@@ -1,0 +1,41 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget,target_segment
+1,Camp-001 Conversion,Influencer,2025-04-06,2025-07-16,3797.11,Consumer
+2,Camp-002 Conversion,Facebook Ads,2024-11-23,2025-01-11,7981.62,SMB
+3,Camp-003 Retention,Influencer,2023-10-01,2023-12-07,5691.94,SMB
+4,Camp-004 Launch,Facebook Ads,2025-10-08,2026-01-11,7679.81,SMB
+5,Camp-005 Retention,Influencer,2026-01-25,2026-03-14,25031.8,Enterprise
+6,Camp-006 Conversion,Email,2025-06-29,2025-10-18,17901.5,SMB
+7,Camp-007 Launch,Influencer,2026-02-15,2026-04-10,772.57,Consumer
+8,Camp-008 Promo,Google Ads,2024-04-21,2024-07-20,37539.0,All
+9,Camp-009 Awareness,Google Ads,2025-05-06,2025-05-31,4264.34,Corporate
+10,Camp-010 Conversion,LinkedIn Ads,2023-03-22,2023-05-31,16960.79,Corporate
+11,Camp-011 Retention,Facebook Ads,2024-07-12,2024-09-12,2818.67,All
+12,Camp-012 Awareness,Facebook Ads,2024-02-17,2024-05-13,3335.41,Consumer
+13,Camp-013 Retention,LinkedIn Ads,2023-05-31,2023-07-29,33290.85,Enterprise
+14,Camp-014 Conversion,Google Ads,2025-09-01,2025-09-30,14021.02,Enterprise
+15,Camp-015 Conversion,Influencer,2025-10-07,2025-11-24,1305.1,Corporate
+16,Camp-016 Awareness,Email,2024-09-27,2025-01-18,13997.91,All
+17,Camp-017 Awareness,Google Ads,2024-08-18,2024-12-13,80000.0,All
+18,Camp-018 Promo,Google Ads,2023-07-17,2023-09-15,24225.33,All
+19,Camp-019 Awareness,LinkedIn Ads,2024-07-22,2024-10-05,78533.71,Corporate
+20,Camp-020 Launch,Influencer,2023-12-31,2024-01-22,3097.18,Consumer
+21,Camp-021 Conversion,Google Ads,2024-09-24,2024-11-30,30601.69,All
+22,Camp-022 Awareness,Email,2025-12-30,2026-02-20,14319.21,SMB
+23,Camp-023 Conversion,Email,2023-12-25,2024-03-31,1452.27,SMB
+24,Camp-024 Promo,Email,2023-11-12,2024-01-07,13958.42,All
+25,Camp-025 Retention,Influencer,2023-04-10,2023-07-16,6521.41,SMB
+26,Camp-026 Promo,TikTok Ads,2025-06-02,2025-08-19,29032.63,Consumer
+27,Camp-027 Retention,Email,2023-02-24,2023-05-23,47598.44,All
+28,Camp-028 Awareness,LinkedIn Ads,2024-10-13,2024-12-09,10349.71,Enterprise
+29,Camp-029 Awareness,Email,2023-03-23,2023-04-10,13334.44,Corporate
+30,Camp-030 Awareness,LinkedIn Ads,2025-12-05,2026-01-15,9657.41,Enterprise
+31,Camp-031 Awareness,Google Ads,2024-07-30,2024-11-05,7366.86,All
+32,Camp-032 Retention,Email,2025-12-07,2026-04-04,8037.96,Corporate
+33,Camp-033 Launch,Google Ads,2023-04-22,2023-06-09,2850.96,Corporate
+34,Camp-034 Awareness,Influencer,2025-02-02,2025-04-16,8861.31,Enterprise
+35,Camp-035 Promo,TikTok Ads,2023-02-05,2023-03-28,3843.66,Enterprise
+36,Camp-036 Retention,LinkedIn Ads,2024-09-04,2024-12-03,6752.94,Corporate
+37,Camp-037 Awareness,Google Ads,2025-08-20,2025-10-26,3507.59,Consumer
+38,Camp-038 Conversion,TikTok Ads,2024-02-01,2024-03-29,12000.01,All
+39,Camp-039 Launch,Email,2024-07-20,2024-11-09,27100.19,SMB
+40,Camp-040 Launch,Facebook Ads,2023-12-23,2024-03-09,5284.98,All
